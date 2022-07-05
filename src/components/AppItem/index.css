@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.app-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style-type: none;
+  background-color: #ffffff;
+  border-radius: 14px;
+  padding: 12px;
+  margin: 10px;
+}
+
+.app-image {
+  width: 80px;
+  height: 80px;
+}
+
+.app-name {
+  color: #1e293b;
+  font-family: 'bree serif';
+  font-size: 20px;
+}
